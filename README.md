@@ -4,15 +4,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=longyuewangdcu&?count_private=true&show_icons=true&theme=vue" />
 
-**longyuewangdcu/longyuewangdcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- **longyuewangdcu/longyuewangdcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Tencent AI Lab
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m a senior researcher at Tencent AI Lab
+- 🌱 I got my Ph.D. degree in 2018
+- 👯 I practiced in a broad field of NLP
+- 🤔 I’m interested in machine translation and deep learning
+- 💬 My homepage is http://longyuewang.com/
+<!--- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
