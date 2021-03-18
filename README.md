@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alphadl&?count_private=true&show_icons=true&theme=vue" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=longyuewangdcu&?count_private=true&show_icons=true&theme=vue" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=alphadl&?count_private=true&show_icons=true&theme=vue" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=longyuewangdcu&?count_private=true&show_icons=true&theme=vue" />
 
 <!--
 **longyuewangdcu/longyuewangdcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
