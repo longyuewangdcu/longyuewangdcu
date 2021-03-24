@@ -9,10 +9,8 @@
 - 🔭 I’m a senior researcher at Tencent AI Lab
 - 🌱 I got my Ph.D. degree in 2018
 - 👯 I practiced in a broad field of NLP
-- 🤔 I’m interested in machine translation and deep learning
+- 🤔 I’m interested in MT and DL
+- 😄 I have some internship positions
+- ⚡ I like to participate academic competition
 - 💬 My homepage is http://longyuewang.com/
-<!--- 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+- 📫 Contact me via vincentwang0229@gmail.com
