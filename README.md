@@ -12,5 +12,5 @@
 - 🤔 I’m interested in MT and DL
 - 😄 I have some internship positions
 - ⚡ I like to participate academic competition
-- 💬 My homepage is http://longyuewang.com/
+- 💬 My homepage is http://longyuewang.com
 - 📫 Contact me vincentwang0229@gmail.com
