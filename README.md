@@ -14,3 +14,7 @@
 - ⚡ I like to participate academic competition
 - 💬 My homepage is http://longyuewang.com
 - 📫 Contact me vincentwang0229@gmail.com
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lyuchenyang/Macaw-LLM,longyuewangdcu/Chinese-Llama-2,blazerye/DrugAssist,smartyfh/LLM-Uncertainty-Bench,gpt4video/GPT4Video&type=Date)](https://star-history.com/#lyuchenyang/Macaw-LLM&longyuewangdcu/Chinese-Llama-2&blazerye/DrugAssist&smartyfh/LLM-Uncertainty-Bench&gpt4video/GPT4Video&Date)
